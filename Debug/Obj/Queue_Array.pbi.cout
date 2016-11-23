@@ -1,18 +1,22 @@
-"C:\Users\Андрей\Desktop\Tilda\Queue_Array.c"
+"C:\Users\Андрей\Documents\GitHub\Tilda\Queue_Array.c"
 -std=c99
 -ferror-limit=100
 -I
-C:\Users\Андрей\Desktop\Tilda\STM32F4XX_LIB
+C:\Users\Андрей\Documents\GitHub\Tilda\STM32F4XX_LIB
 -I
-C:\Users\Андрей\Desktop\Tilda\CMSIS
+C:\Users\Андрей\Documents\GitHub\Tilda\CMSIS
+-I
+C:\Users\Андрей\Documents\GitHub\Tilda\STM32F4XX_LIB\c
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\arm\inc\c
 -I
-C:\Users\Андрей\Desktop\Tilda\STM32F4XX_LIB
+C:\Users\Андрей\Documents\GitHub\Tilda\STM32F4XX_LIB
 -I
-C:\Users\Андрей\Desktop\Tilda\CMSIS
+C:\Users\Андрей\Documents\GitHub\Tilda\CMSIS
+-I
+C:\Users\Андрей\Documents\GitHub\Tilda\STM32F4XX_LIB\c
 -DUSE_STDPERIPH_DRIVER=0
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
@@ -210,8 +214,8 @@ C:\Users\Андрей\Desktop\Tilda\CMSIS
 -D__HAS_LOCATED_DECLARATION__=1
 -D__HAS_LOCATED_WITH_INIT__=1
 -D__IAR_COMPILERBASE__=593160
--D__DATE__="Nov 19 2016"
--D__TIME__="16:42:08"
+-D__DATE__="Nov 23 2016"
+-D__TIME__="21:56:49"
 -D__STDC__=1
 -D__STDC_VERSION__=199901L
 -D__STDC_HOSTED__=1
